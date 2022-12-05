@@ -63,6 +63,7 @@
     "nw": "0.70.1-sdk",
     "nw-vue-devtools-prebuilt": "^0.0.10",
     "nwjs-builder-phoenix": "^1.15.0",
+    "nwjs-types": "^1.0.0",
     "pinia": "^2.0.26",
     "rimraf": "^3.0.2",
     "vite": "^3.2.4",
